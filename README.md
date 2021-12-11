@@ -1,4 +1,4 @@
-# Fly-Beer
+# Fly Beer
 Fly Beer drinking game
 ## Privacy and Policy
 - Do not use the app to organize gambling.
